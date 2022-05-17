@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgEcon7
 - Total newbie here but,
-- 👀 I’m interested in data analytics and the foundational tools that go with it for a beginner
+- 👀 I’m interested in data analytics and the foundational tools that go with it for a beginner.
 - 🌱 I’m just starting to look at SQL and some of the "expert-level?" functions in Excel. 
 - What's next? Python, then R or maybe R, then Python. Suggestions welcome.
 - 💞️ I'm open to input on anything related to jumping into data analysis.
